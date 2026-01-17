@@ -1,0 +1,7 @@
+{
+  "name": "Shanti Jaap: Devotional Assistant",
+  "description": "A peaceful Hindu Naam Jaap app featuring a digital Mala counter, mood-based spiritual guidance, and a bilingual AI assistant for devotional support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
